@@ -1,0 +1,44 @@
+---
+title: "Jahzeel Palafox"
+image: "jahzeel.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/JahzeelPalafox"
+  - label: Email
+    url: "mailto:darapc@lcg.unam.mx"
+output:
+  postcards::trestles
+---
+
+🧬 Estudiante de Ciencias Genómicas
+
+🏛️ Universidad Nacional Autónoma de México
+
+---
+
+## Sobre mí
+
+Soy estudiante de la Licenciatura en Ciencias Genómicas con un interés profundo en integrar biología y ciencias de datos desde una base teórica sólida.
+
+Me atrae especialmente el análisis computacional aplicado a datos biológicos, la optimización combinatoria y los fundamentos teóricos que sustentan la bioinformática y la genómica moderna.
+
+---
+
+## Formación en desarrollo
+
+* **Ciencias de la Computación:** Estructuras de datos, diseño y análisis de algoritmos, programación en C y Python.
+* **Matemáticas Aplicadas:** Matemáticas discretas, lógica formal, probabilidad y modelado de sistemas biológicos.
+* **Bioinformática y Estadística:** Análisis de datos genómicos en R y Bioconductor, métodos de inferencia estadística.
+* **Genómica y Sistemas Biológicos:** Organización y dinámica de genomas, mecanismos moleculares de herencia y variación, integración y modelado de redes biológicas.
+
+---
+
+## Enfoque personal
+
+Soy una persona introspectiva y profundamente curiosa. Disfruto pensar con calma, desarmar problemas  y reconstruirlos con claridad.
+
+Soy disciplinada y exigente conmigo misma, pero también consciente de que el aprendizaje es un proceso continuo. Prefiero la profundidad a la rapidez y la coherencia a la improvisación.
+
+Para mí, los datos y los algoritmos son herramientas; lo verdaderamente importante es comprender la vida con responsabilidad y sensibilidad.
+
+Aspiro a convertirme en una científica sólida en fundamentos, creativa en pensamiento y humana en práctica.
